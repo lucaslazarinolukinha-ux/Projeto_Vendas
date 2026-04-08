@@ -85,3 +85,12 @@ nav a{
     cursor: pointer;
 
 }
+
+
+@media  (max-width:600px){
+    .header-estilo{
+        flex-direction: column;
+        gap: 15px;
+    }
+
+}
