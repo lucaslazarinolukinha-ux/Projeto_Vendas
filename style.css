@@ -67,3 +67,10 @@ nav a{
 .titulo{
     color: red;
 }
+
+.rodape{
+    text-align: center;
+    padding: 20px;
+    font-size: 0.8rem;
+    color: rgb(16, 16, 231);
+}
