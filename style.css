@@ -30,3 +30,12 @@ nav a{
     text-decoration: none;
     font-weight: bold;
 }
+
+.container{
+
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
