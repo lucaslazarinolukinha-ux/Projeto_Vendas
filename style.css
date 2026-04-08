@@ -60,3 +60,6 @@ nav a{
     margin-bottom: 20px;
     object-fit: cover;
 }
+#valor-final{
+    color: red;
+}
