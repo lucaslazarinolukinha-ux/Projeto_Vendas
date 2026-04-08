@@ -25,4 +25,8 @@ nav ul{
     gap: 20px;
 }
 
-nav a
+nav a{
+    color: rgb(98, 140, 153);
+    text-decoration: none;
+    font-weight: bold;
+}
